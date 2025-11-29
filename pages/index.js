@@ -125,7 +125,7 @@ export default function RestaurantMenu() {
               <ChefHat className="w-10 h-10" />
             </div>
             <h1 className="text-5xl font-bold mb-2 tracking-tight">
-              La Bella Vista
+              Aurafit Restaurant
             </h1>
             <p className="text-xl text-orange-100 font-light">
               Authentic Mediterranean Cuisine
